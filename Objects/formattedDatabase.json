@@ -51,9 +51,9 @@
   {
     "id": 2162952,
     "name": "Kit Gamer acer - Notebook + Headset + Mouse",
-    "quantity": 0,
     "price": 25599,
-    "category": "Eletrônicos"
+    "category": "Eletrônicos",
+    "quantity": 0
   },
   {
     "id": 3500957,
@@ -65,8 +65,8 @@
   {
     "id": 1911864,
     "name": "Mouse Gamer Predator cestus 510 Fox Preto",
-    "quantity": 0,
     "price": 699,
-    "category": "Acessórios"
+    "category": "Acessórios",
+    "quantity": 0
   }
 ]

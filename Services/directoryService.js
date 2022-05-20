@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const formattedJsonRecorder = async (data) => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./Objects/formattedDatabase.json', JSON.stringify(data, null, 2),
+        fs.writeFile('./saida.json', JSON.stringify(data, null, 2),
             err => {
                 if (err) {
                     console.log(err)
